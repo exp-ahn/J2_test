@@ -12,6 +12,7 @@ function App() {
                 <img src={logo} className="App-logo" alt="logo" />
                 <p>
                     test <code>src/App.js</code> test test test
+                    test <code>src/App.js</code> test test test
                 </p>
                 <a href='https://j2-fitness.netlify.app/'>let's go netlify</a>
                 <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
